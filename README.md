@@ -4,7 +4,7 @@ Around late december of 2025, a few exploiters emerged using the infamous "desyn
 
 # Usage
 
-*Use ONLY if you come across a desync exploiter, it is useless otherwise.*
+*This tool was created for windows 10-11 (not mobile). Use ONLY if you come across a desync exploiter, it is useless otherwise.*
 
 1. Download the latest release
 2. Extract the file into a folder
