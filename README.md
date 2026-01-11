@@ -1,16 +1,19 @@
-## Hi there 👋
+## Disclaimer 
 
-<!--
-**vProspect/vProspect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Around late december of 2025, a few exploiters emerged using the infamous "desync" hack. This tool was created to combat such exploiters. Only use this tool when you come across a person using desync specifically in SSL.
 
-Here are some ideas to get you started:
+# Usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Use ONLY if you come across a desync exploiter, it is useless otherwise.*
+
+1. Download the latest release
+2. Extract the file into a folder
+3. **Wait** until you are in a match, then run `VisualProspect.exe`
+
+## Notes
+
+`vProspect` works using server-sided validation. It leverages the weakness that desync exploiters interact with something the server can see at anytime. vProspect modifies bytecode inside Roblox to create a lua environment. The downside is that vProspect will not work if roblox updates. You will need to wait until *I* or a contributor pushes an update.
+
+### Contributors
+
+- filefilza (core logic, external execution environment, teleport handler)
