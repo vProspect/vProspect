@@ -9,6 +9,7 @@ Around late december of 2025, a few exploiters emerged using the infamous "desyn
 1. Download the latest release
 2. Extract the file into a folder
 3. **Wait** until you are in a match, then run `VisualProspect.exe`
+4. Type `help` to get a list of all possible commands
 
 *You are able to stay in a queue for rank. When you transport to the new server, you will have to "attach" again.*
 
